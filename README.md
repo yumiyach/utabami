@@ -1,0 +1,2 @@
+# utabami
+utabami.comにあったサイトをFirebase Hostingでリダイレクトさせるだけ
